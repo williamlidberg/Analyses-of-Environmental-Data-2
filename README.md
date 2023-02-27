@@ -19,10 +19,10 @@ After completing the course, the student should be able to:
 # Table of  Contents
 
 1. [Docker containers](#Processing-of-spatial-data-with-open-software)
-  1. [Qgis](##Qgis)
+   1. [Qgis](##Qgis)
 2. [Programming in, for example, Python to analyze spatial data](#2-Programming-in-Python-to-analyze-spatial-data)
-  1. [Google colab and Anaconda](##Google-colab-and-Anaconda)
-  2. [geopandas](##geopandas)
+   1. [Google colab and Anaconda](##Google-colab-and-Anaconda)
+   2. [geopandas](##geopandas)
 3. [Combining data from field studies with spatial data and statistical methods and machine learning](#Combining-data-from-field-studies-with-spatial-data-and statistical-methods-and-machine-learning)
 4. [Implementing machine learning models on spatial data](#Implementing machine learning models on spatial data)
 
