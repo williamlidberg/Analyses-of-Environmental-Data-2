@@ -24,6 +24,7 @@ After completing the course, the student should be able to:
   1. [Google colab and Anaconda](##Google-colab-and-Anaconda)
   2. [geopandas](##geopandas)
 3. [Combining data from field studies with spatial data and statistical methods and machine learning](#Combining-data-from-field-studies-with-spatial-data-and statistical-methods-and-machine-learning)
+4. [Implementing machine learning models on spatial data](#Implementing machine learning models on spatial data)
 
 
 # 1 Processing of spatial data with open software
