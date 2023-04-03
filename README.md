@@ -39,7 +39,7 @@ After completing the course, the student should be able to:
 ## Google colab and Anaconda
 
 ## geopandas
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamlidberg/Whitebox-tutorial/blob/main/Whitebox_tools_in_colab.ipynb)
 
 # 3 Combining data from field studies with spatial data and statistical methods and machine learning
 ## Random Forest
