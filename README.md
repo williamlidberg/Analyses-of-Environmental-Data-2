@@ -85,6 +85,8 @@ If the number of cores is less than four you should use google colab. You should
 
 ## Satellite data
 ### Geemap
+ [Google earth Engine (GEE)](https://earthengine.google.com/) has become very popular in the geospatial community and it has empowered numerous environmental applications at local, regional, and global scales. [Geeemap](https://geemap.org/) is built upon ipyleaflet and ipywidgets, and enables users to analyze and visualize Earth Engine datasets interactively within a Jupyter-based environment.
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/Geopandas.ipynb)
 # Topographical modeling
 ## Whittebox Tools
