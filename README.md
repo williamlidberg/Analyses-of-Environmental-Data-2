@@ -18,32 +18,52 @@ After completing the course, the student should be able to:
 *	Combine machine learning with geographic data to produce maps of biological conditions for sustainable forestry.
 
 # Table of  Contents
-
+M1: setting upp your environment
+M2: Introduction to Python
+M3: Data wrangling
+M4: Topographical modeling
+M5: Geopandas
+M6: Satellite imagery
+M7: Machine learning on vector data
+M8: Machine learning on raster data
+M9: Deep learning
 1. [Setting up your analytical envrionment](#Setting-up-your-analytical-envrionment)
    1. [Jupyter notebooks](##Jupyter-notebooks) 
          1. [With google colab](###with-google-colab) 
          2. [With your own hardware](###with-your-own-hardware)
-   1. [Qgis](##Qgis)
-2. [Processing of spatial data with open source software](#Processing-of-spatial-data-with-open-source-software)
+   2. 
+   3. [Qgis](##Qgis)
+2. [Introduction to Python](#Introduction-to-Python)
    1. [Vector data](##Vector-data)
-      1. [Geopandas](##Geopandas)
+
    2. [Raster data](##Raster-data)
       1. [Rasterio](##Rasterio)
       2. [Xarray](##xarray)
-   3. [Satellite data](##Satellite-data)
+
+3. [Data wrangling](#Data-wrangling)
+
+4. [Topographical modeling](#Topographical-modeling)
+
+5. [Geopandas](#Geopandas)
+
+6. [Satellite imagery](#Satelite-imagery)
+
       1. [Geemap](###Geemap)
-
-3. [Topographical modeling](#Topographical-modeling)
-   1. [Whittebox Tools](##Whittebox-Tools)
-4. [Machine learning with spatial data](#Implementing-machine-learning-models-on-spatial-data)\
-   1. [Random Forest](##Random-Forest)
-   2. [Deep learning](##Deep-learning)
-
-
+7. [Machine learning on vector data](#Machine-learning-on-vector-data)
+8. [Machine learning on raster data](#Machine-learning-on-raster-data)
+9. [Deep learning](#Deep-learning)
 # Setting up your analytical envrionment
 This course will only focus on free and open source tools which will always be accecible to you so you don't have to fight with the IT-department of your future employer. You will not need to pay for, or manage, expensive licens fees. In the first half of this course you used Rstudio to run R scripts but in order to work with Python scripts you need a Python envrinoment. 
 ## Jupyter notebooks
  Instead of Rstudio we will use Jupyter notebooks to analyze and interract with the data. The Jupyter Notebook is a web application for creating and sharing computational documents. It offers a simple, streamlined, document-centric experience. It supports over 40 programming languages, including Python, R, Julia, and Scala. In this crouse we will demonstrate two ways to set up notebooks. The easy way using google colab, and the fun way using your own computer.
+
+The assignment for this module is to set up your analytical environment and install the following python packages:
+* [Whitebox](https://pypi.org/project/whitebox/)
+*
+
+
+Once set up you need to run this code and report the 
+
 ### With google colab
 Colab is a hosted Jupyter Notebook service that requires no setup to use and provides free access to computing resources, including GPUs and TPUs. All exercises in this course can be completed using google colab. However, colab is also quite slow due to limited hardware resources with about two processing cores and 12 GB of RAM. In order to get started with google colab you will need a google account and set up google drive for permanent storage. 
 
