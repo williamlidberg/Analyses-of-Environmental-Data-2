@@ -52,7 +52,7 @@ M9: Deep learning
 7. [Machine learning on vector data](#Machine-learning-on-vector-data)
 8. [Machine learning on raster data](#Machine-learning-on-raster-data)
 9. [Deep learning](#Deep-learning)
-# Setting up your analytical envrionment
+# Setting up your analytical environment
 This course will only focus on free and open source tools which will always be accecible to you so you don't have to fight with the IT-department of your future employer. You will not need to pay for, or manage, expensive licens fees. In the first half of this course you used Rstudio to run R scripts but in order to work with Python scripts you need a Python envrinoment. 
 ## Jupyter notebooks
  Instead of Rstudio we will use Jupyter notebooks to analyze and interract with the data. The Jupyter Notebook is a web application for creating and sharing computational documents. It offers a simple, streamlined, document-centric experience. It supports over 40 programming languages, including Python, R, Julia, and Scala. In this crouse we will demonstrate two ways to set up notebooks. The easy way using google colab, and the fun way using your own computer.
