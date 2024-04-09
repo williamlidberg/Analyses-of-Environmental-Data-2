@@ -1,0 +1,442 @@
+SMC;SMC_code;Humusform;HumusformCode;OTh_plot;OTh_pit;SoilType;North;East
+Mesic;2;Mor (type 1);1;8.1;8;Podzol;7135685.023;732282.698
+Mesic;2;Mor (type 1);1;4.1;3.7;Podzol;7135682.996;732633.623
+Mesic;2;Mor (type 2);2;11;17;Podzol;7135328.897;732635.371
+Mesic;2;Mor (type 1);1;4.5;7.7;Arenosol;7131479.747;731230.743
+Mesic;2;Mor (type 1);1;7.8;7.7;Arenosol;7131138.837;731234.468
+Mesic;2;Mor (type 1);1;3.8;3.5;Arenosol;7131490.936;730881.776
+Mesic;2;Mor (type 2);2;8.9;9;Podzol;7135338.588;732280.594
+Mesic;2;Mor (type 2);2;5.7;5.8;Regosol;7132182.979;732982.304
+Mesic-moist;3;Mor (type 1);1;6;7.3;Regosol;7132186.76;733331.292
+Mesic;2;Mor (type 2);2;7;7;Regosol;7131824.163;732979.017
+Mesic;2;Mor (type 1);1;3.5;10.7;Podzol;7137082.887;729481.273
+Moist;4;Peat;7;99;99;Histosol;7137082.916;729831.134
+Mesic;2;Mor (type 1);1;3.9;3.7;Podzol;7136380.787;733326.858
+Mesic;2;Mor (type 1);1;4.3;4.2;Podzol;7136730.795;729481.169
+Mesic;2;Mor (type 2);2;5.2;7;Podzol;7136738.183;729829.802
+Mesic;2;Mor (type 1);1;5.5;9.7;Podzol;7136031.537;733331.059
+Mesic;2;Mor (type 1);1;8.2;3.7;Podzol;7136034.896;732980.404
+Mesic;2;Mor (type 1);1;4.5;4.3;Podzol;7134631.799;729133.342
+Mesic;2;Mor (type 1);1;11.6;6.5;Podzol;7134631.009;728779.691
+Dry;1;Mor (type 1);1;6.3;4.8;Podzol;7134981.239;728780.223
+Mesic;2;Mor (type 1);1;6.5;4.2;Podzol;7134982.384;729127.849
+Dry;1;Mor (type 1);1;3.9;2.8;Podzol;7137080.573;733679.129
+Mesic;2;Mor (type 1);1;6.2;7.2;Podzol;7136729.434;734032.089
+Dry;1;Mor (type 1);1;2.7;3.1;Podzol;7130431.066;730181.297
+Mesic;2;Mor (type 1);1;5.5;5.3;Podzol;7130788.309;730538.104
+Mesic;2;Mor (type 1);1;5.5;5;Podzol;7137088.87;734029.077
+Mesic;2;Mor (type 1);1;8.1;5;Arenosol;7130427.434;730525.962
+Mesic;2;Mull;5;7.1;7.5;Umbrisol;7130777.346;730178.642
+Mesic;2;No humus layer;0;5.5;0;Podzol;7127622.47;734381.138
+Mesic;2;Mor (type 1);1;4.9;7;Podzol;7127637.293;734729.557
+Mesic;2;Peat;7;37.3;30;Gleysol;7127983.019;734716.799
+Dry;1;Mor (type 1);1;3.2;4.2;Arenosol;7130782.748;731578.179
+Mesic;2;Mor (type 1);1;3.8;2.4;Arenosol;7130429.446;731581.77
+Mesic;2;Mor (type 1);1;6.1;5.5;Ej klassificerbar;7130429.528;731929.796
+Mesic;2;Mor (type 1);1;4.2;4.8;Podzol;7130782.523;731934.504
+Mesic;2;Mor (type 1);1;5.8;7.3;Podzol;7133234.126;733326.016
+Mesic;2;Mor (type 1);1;9.5;14;Podzol;7133572.514;733332.604
+Mesic;2;Mor (type 2);2;13.4;20.7;Podzol;7133593.27;732973.851
+Mesic;2;Mor (type 1);1;4.2;5.5;Podzol;7134283.796;734033.112
+Mesic;2;Mor (type 2);2;15.3;17.7;Podzol;7134278.794;733685.349
+Mesic-moist;3;Mor (type 2);2;21.5;22;Podzol;7133930.214;733689.269
+Mesic-moist;3;Peat;7;65.2;77;Histosol;7133928.258;734030.946
+Mesic;2;Mor (type 1);1;6;3.7;Podzol;7135328.08;733680.821
+Dry;1;Mor (type 1);1;5.7;2.6;Podzol;7135677.187;733680.288
+Mesic;2;Mor (type 1);1;5.8;5;Podzol;7135330.577;734025.028
+Mesic;2;No humus layer;0;4.1;0;Podzol;7135683.327;734030.498
+Mesic;2;Mor (type 1);1;5.6;5.8;Podzol;7134982.361;734732.519
+Mesic;2;Mor (type 1);1;11.3;9.7;Podzol;7134984.011;734377.015
+Mesic;2;Mor (type 1);1;5.8;7.7;Podzol;7137432.667;731924.401
+Wet;5;Peat;7;96.2;99;Histosol;7137427.874;731575.439
+Moist;4;Peat;7;94;80;Histosol;7137781.002;731581.858
+Moist;4;Peaty Mor;6;23;21;Regosol;7128687.695;734035.137
+Dry;1;Mor (type 2);2;3.9;3.2;Podzol;7131142.539;733680.999
+Mesic;2;Mor (type 1);1;4.5;4.5;Podzol;7131823.537;731577.724
+Mesic;2;Mor (type 1);1;6.5;7.3;Regosol;7131833.152;731928.569
+Mesic;2;Mor (type 1);1;7.5;7.3;Regosol;7132180.344;731932.458
+Mesic;2;Mor (type 1);1;5.8;5.2;Regosol;7132182.223;731579.302
+Moist;4;Peat;7;99;99;Histosol;7134275.783;735081.208
+Mesic;2;Mor (type 1);1;5.5;6.7;Podzol;7134281.941;735436.425
+Mesic;2;Mor (type 2);2;5.9;5.8;Podzol;7133931.208;735085.369
+Moist;4;Peaty Mor;6;NA;22;Histosol;7134980.584;731580.908
+Moist;4;Peat;7;99;92;Histosol;7134630.866;731930.209
+Moist;4;Peat;7;68.3;66;Histosol;7134983.614;731924.427
+Mesic;2;Mor (type 1);1;5.2;5.3;Regosol;7131130.636;734026.951
+Mesic;2;Mor (type 2);2;4.2;3.8;Podzol;7131482.02;734032.546
+Mesic;2;Mor (type 1);1;8.9;9.7;Podzol;7133930.484;731230.02
+Mesic;2;Mor (type 1);1;5;6;Podzol;7134279.03;731222.068
+Mesic;2;Mor (type 1);1;7.2;3.7;Podzol;7134632.81;731571.93
+Moist;4;Peat;7;99;99;Histosol;7128334.503;734029.094
+Moist;4;Peat;7;99;99;Histosol;7128333.618;733682.331
+Moist;4;Mor (type 2);2;25.3;23;Gleysol;7128681.078;733684.961
+Mesic;2;Mor (type 1);1;5.8;4.5;Regosol;7132884.035;732277.414
+Mesic;2;Mor (type 1);1;9;7;Podzol;7132528.151;732279.73
+Mesic-moist;3;Mor (type 1);1;15.2;13;Gleysol;7132532.438;732628.812
+Dry;1;Mor (type 1);1;4.3;12.7;Podzol;7130427.422;734729.191
+Dry;1;Mor (type 1);1;6.2;4.2;Arenosol;7130428.14;734379.664
+Mesic;2;Mor (type 1);1;5.2;3.7;Podzol;7134983.717;735782.45
+Dry;1;Mor (type 1);1;12;3.7;Regosol;7130781.607;734382.123
+Mesic;2;Mor (type 1);1;2.9;3.7;Regosol;7130780.96;734730.833
+Mesic;2;Mor (type 1);1;10.5;11.7;Podzol;7134626.777;735768.299
+Mesic;2;Mor (type 1);1;6.8;4.2;Podzol;7130086.164;736492.783
+Dry;1;Mor (type 1);1;4.8;4.2;Podzol;7130083.918;736829.121
+Mesic;2;Mor (type 1);1;4.5;5.2;Arenosol;7127984.32;736140.935
+Moist;4;Peat;7;99;99;Histosol;7134978.911;730179.168
+Wet;5;Peat;7;99;99;Histosol;7134981.927;730531.38
+Mesic;2;Mor (type 1);1;5.2;5.3;Podzol;7134629.639;730179.322
+Mesic;2;Mor (type 1);1;16.4;8;Podzol;7134631.929;730528.738
+Mesic;2;Mor (type 1);1;9.2;7;Podzol;7138483.695;732631.472
+Mesic;2;Mor (type 1);1;5.8;3.7;Podzol;7138133.424;732280.852
+Mesic;2;Mor (type 1);1;8.6;7;Regosol;7132533.354;730880.151
+Mesic;2;Mor (type 1);1;8.8;7;Podzol;7132882.08;731229.808
+Mesic;2;Mor (type 2);2;6.9;7.3;Podzol;7132529.488;731227.832
+Mesic;2;Mor (type 2);2;9.7;13.3;Podzol;7133579.087;731933.101
+Mesic;2;Mor (type 1);1;10.4;10.7;Podzol;7133582.162;731577.026
+Moist;4;Peat;7;93.7;99;Histosol;7136033.612;734729.785
+Mesic;2;Mor (type 1);1;8.1;6.7;Podzol;7136380.949;734734.5
+Mesic;2;Mor (type 1);1;4;5;Podzol;7134630.612;732981.952
+Mesic;2;Mor (type 1);1;6.8;6.7;Podzol;7134979.224;732979.309
+Mesic-moist;3;Peat;7;43.1;31;Podzol;7134628.006;733333.377
+Mesic;2;Mor (type 1);1;4.5;4;Podzol;7131481.41;732278.391
+Mesic;2;Mor (type 1);1;7.1;5.5;Podzol;7131130.888;732280.222
+Mesic;2;No humus layer;0;1.2;0;Podzol;7131484.966;732633.028
+Mesic;2;Mor (type 1);1;4.6;4.3;Regosol;7132189.692;734710.538
+Mesic;2;Mor (type 1);1;5.3;7;Regosol;7131839.415;734380.606
+Mesic;2;Mor (type 1);1;7.8;7;Regosol;7132175.543;734386.939
+Mesic;2;Mor (type 1);1;11.4;7.2;Podzol;7137784.195;734728.978
+Wet;5;Peat;7;99;99;Histosol;7137433.872;734725.609
+Mesic;2;Mor (type 1);1;5.1;8;Podzol;7137431.299;734378.933
+Mesic;2;Mor (type 1);1;4.1;7;Podzol;7137775.302;734368.856
+Mesic;2;Mor (type 1);1;3.6;4.3;Arenosol;7129731.594;730880.065
+Mesic;2;Mor (type 1);1;5.7;6.7;Podzol;7131129.72;735429.805
+Mesic;2;Mor (type 1);1;6.3;4.8;Regosol;7129732.856;731230.72
+Mesic;2;Mor (type 1);1;5.4;6.3;Podzol;7133589.944;734736.639
+Mesic;2;Mor (type 1);1;10.2;8.7;Podzol;7133584.543;730177.258
+Mesic;2;Mor (type 1);1;6.2;7.3;Regosol;7133579.641;730533.869
+Dry;1;No humus layer;0;4.9;0;Regosol;7131480.374;735079.501
+Wet;5;Peaty Mor;6;11.6;7.9;Gleysol;7131481.073;735429.704
+Moist;4;Peat;7;52.3;31;Gleysol;7138130.739;731230.116
+Mesic;2;Mor (type 1);1;6.7;7;Podzol;7133921.785;728082.498
+Mesic-moist;3;Peaty Mor;6;7.2;10.3;Podzol;7130083.767;730882.685
+Moist;4;Peaty Mor;6;8.7;9;Gleysol;7133232.247;734378.727
+Dry;1;Mor (type 1);1;8.5;7;Regosol;7133234.035;734727.859
+Mesic;2;Mor (type 1);1;10.2;5.7;Podzol;7133227.676;730179.602
+Mesic-moist;3;Peaty Mor;6;26.5;15.7;Podzol;7133229.01;730532.824
+Mesic;2;Mor (type 1);1;5.7;5.5;Podzol;7128685.322;735083.353
+Mesic;2;Mor (type 1);1;9.2;10;Podzol;7128682.303;735430.8
+Wet;5;Peat;7;51.3;59;Histosol;7128332.216;735429.105
+Mesic;2;Mor (type 1);1;9.6;9;Regosol;7128331.229;735080.598
+Mesic;2;Mor (type 1);1;6;3.8;Podzol;7136034.155;731576.608
+Mesic-moist;3;Peat;7;99;99;Histosol;7136384.909;731582.833
+Mesic-moist;3;Peaty Mor;6;32.5;27;Regosol;7136021.577;731926.315
+Mesic;2;Mor (type 1);1;4.4;15;Podzol;7130083.424;731229.77
+Mesic;2;Mor (type 1);1;10.5;4.7;Podzol;7134277.928;732277.009
+Dry;1;Mor (type 1);1;5.1;2.1;Podzol;7134281.586;728080.971
+Mesic;2;Mor (type 1);1;5.2;5.7;Podzol;7134275.298;728428.778
+Mesic-moist;3;Mor (type 1);1;12.9;7.3;Leptosol;7133927.093;728420.6
+Mesic;2;Mor (type 1);1;4.8;7.7;Podzol;7129379.655;733328.932
+Mesic;2;Mor (type 1);1;2.2;3.5;Podzol;7129383.082;735781.155
+Mesic-moist;3;Peaty Mor;6;10.4;9.7;Regosol;7133928.935;732634.392
+Mesic-moist;3;Peat;7;24.5;35;Regosol;7134271.763;732630.598
+Mesic-moist;3;Peat;7;20.9;35;Histosol;7135332.099;729829.734
+Mesic;2;Peaty Mor;6;8.4;11.7;Regosol;7135334.096;729478.407
+Mesic;2;Mor (type 1);1;4.5;3.4;Podzol;7129034.116;735782.39
+Mesic;2;Mor (type 1);1;13.1;12.3;Podzol;7129032.066;736129.927
+Dry;1;Mor (type 1);1;9.6;17;Regosol;7129735.813;735081.25
+Mesic;2;Mor (type 1);1;2.8;2;Regosol;7130081.203;735077.931
+Mesic;2;Mor (type 1);1;6.7;6.7;Podzol;7129733.02;735431.166
+Dry;1;No humus layer;0;2.4;0;Arenosol;7130082.779;735431.108
+Mesic;2;No humus layer;0;3.7;0;Podzol;7135682.16;729478.274
+Mesic;2;Mor (type 1);1;10;7;Podzol;7135682.235;729830.516
+Mesic;2;Mor (type 1);1;9.2;10.3;Podzol;7129734.071;734028.011
+Mesic;2;Mor (type 1);1;10.5;11;Podzol;7129730.698;733678.339
+Mesic;2;No humus layer;0;4.1;0;Podzol;7137431.322;730528.552
+Mesic-moist;3;Peat;7;99;99;Histosol;7137433.175;730180.984
+Mesic;2;Peaty Mor;6;19.1;20;Regosol;7132881.509;735434.012
+Dry;1;Mor (type 1);1;9.2;23;Leptosol;7132530.531;735431.999
+Mesic;2;Mor (type 1);1;5.7;6.7;Podzol;7133934.105;727030.635
+Mesic;2;Mor (type 1);1;10.5;5.2;Podzol;7130435.704;735772.723
+Mesic;2;Mor (type 1);1;18.2;19;Regosol;7130782.645;735778.404
+Mesic;2;Mor (type 1);1;6.3;5.7;Gleysol;7132883.626;729831.377
+Mesic;2;Mor (type 1);1;4.2;10;Podzol;7132530.872;729482.831
+Mesic;2;Mor (type 1);1;8.6;3.1;Regosol;7132534.834;729833.045
+Mesic;2;Mor (type 1);1;6.6;4.8;Podzol;7136029.111;730178.979
+Mesic-moist;3;Mor (type 1);1;6.6;8;Regosol;7136036.643;730530.59
+Mesic;2;Mor (type 1);1;6.5;12.3;Podzol;7136385.629;730524.506
+Mesic;2;Moder;3;7;4.3;Podzol;7129028.418;734728.613
+Mesic-moist;3;Peaty Mor;6;37.4;20;Regosol;7129034.365;734376.428
+Mesic;2;Mor (type 2);2;3.9;6.7;Podzol;7137782.125;733329.956
+Mesic;2;Mor (type 1);1;6.9;8;Podzol;7137779.8;732982.17
+Mesic;2;Mor (type 1);1;6.8;6;Regosol;7137434.02;733312.608
+Mesic;2;Mor (type 1);1;6.8;9.3;Regosol;7131828.784;730177.873
+Mesic;2;Mor (type 1);1;5.8;4.7;Podzol;7137432.873;732993.875
+Mesic;2;Mor (type 1);1;9;9.3;Podzol;7136740.304;731224.918
+Mesic;2;Mor (type 1);1;8.5;3.7;Regosol;7130080.551;733678.794
+Mesic;2;Mor (type 1);1;6.5;7;Regosol;7130082.429;734028.075
+Mesic;2;Mor (type 1);1;15.2;9.3;Podzol;7133584.845;736130.614
+Mesic;2;Mor (type 2);2;4.4;4.2;Podzol;7137080.836;730877.995
+Mesic;2;Mor (type 1);1;11.2;15.7;Podzol;7137084.182;731227.894
+Mesic;2;Mor (type 2);2;35.7;7;Podzol;7136380.792;730174.837
+Mesic-moist;3;Mor (type 1);1;13.9;10.7;Podzol;7136727.643;735081.911
+Moist;4;Peat;7;99;99;Histosol;7137085.545;735080.48
+Mesic-moist;3;Peat;7;35.8;68;Histosol;7135331.2;730878.853
+Mesic-moist;3;Peat;7;27.3;37;Regosol;7135333.048;731229.105
+Mesic-moist;3;Peat;7;54.8;56;Histosol;7135690.631;730881.708
+Mesic;2;Mor (type 1);1;11.1;10;Regosol;7127986.143;735780.773
+Mesic;2;No humus layer;0;5.6;0;Podzol;7134980.251;727381.779
+Mesic;2;Mor (type 1);1;8.3;9.7;Podzol;7134982.976;727725.068
+Mesic;2;Mor (type 1);1;4.5;3.3;Podzol;7134631.875;727727.57
+Mesic;2;Moder;3;9.9;4.3;Podzol;7134631.282;727381.978
+Wet;5;Peat;7;45;35;Histosol;7135335.226;728435.047
+Mesic;2;Mor (type 1);1;6.9;8.7;Podzol;7136030.51;727381.114
+Mesic;2;Mor (type 1);1;5.2;6;Podzol;7136035.836;727725.403
+Mesic;2;Mor (type 1);1;6;3.3;Podzol;7133231.917;729479.895
+Mesic-moist;3;Peaty Mor;6;36.2;23;Histosol;7135328.591;731578.738
+Mesic-moist;3;Peaty Mor;6;20.5;20;Leptosol;7135334.914;731927.126
+Mesic;2;Mor (type 1);1;9.2;6.5;Podzol;7133576.358;728776.144
+Mesic-moist;3;Peaty Mor;6;15.8;22.3;Gleysol;7133579.844;729133.506
+Mesic;2;Mor (type 1);1;8.7;14;Podzol;7137088.151;731936.199
+Mesic;2;Mor (type 1);1;5.9;4.3;Podzol;7135683.262;731581.976
+Mesic;2;Mor (type 1);1;8.3;7;Regosol;7135685.066;731933.321
+Mesic;2;Mor (type 1);1;18.2;12;Podzol;7137084;731576.984
+Mesic-moist;3;Mor (type 1);1;23.5;11.3;Podzol;7136734.163;731583.743
+Mesic;2;Mor (type 1);1;7.1;8.7;Podzol;7133236.881;735782.295
+Mesic;2;Mor (type 1);1;7.1;5.3;Podzol;7133587.492;735774.275
+Mesic;2;Mor (type 1);1;5.8;3.9;Podzol;7134284.312;729480.102
+Mesic-moist;3;Peaty Mor;6;18.5;13.3;Regosol;7134279.634;729833.29
+Mesic;2;Mor (type 1);1;7.2;9.3;Regosol;7132530.056;733682.465
+Mesic;2;Mor (type 1);1;8.5;6;Regosol;7132532.311;734031.344
+Mesic;2;Mor (type 1);1;5.7;5.2;Podzol;7138135.675;733678.22
+Mesic-moist;3;Mor (type 1);1;7.8;7.3;Podzol;7138133.334;734033.096
+Mesic;2;Mor (type 1);1;7.6;9.7;Podzol;7135683.977;731237.042
+Mesic;2;Mor (type 1);1;14.5;4.2;Podzol;7135351.675;735428.472
+Mesic;2;Mor (type 1);1;8.5;8.2;Podzol;7135331.985;735082.318
+Mesic;2;Mor (type 1);1;9.2;20;Histosol;7136732.22;731931.267
+Moist;4;Peaty Mor;6;25.7;14.7;Regosol;7133228.362;732627.825
+Mesic-moist;3;Peaty Mor;6;12.7;15.3;Regosol;7133224.315;732279.272
+Mesic-moist;3;Peat;7;25.9;42;Histosol;7133582.2;732281.06
+Mesic;2;Peaty Mor;6;36.7;20;Arenosol;7134286.336;731930.622
+Mesic-moist;3;Peaty Mor;6;25;27;Gleysol;7137078.664;734729.592
+Mesic;2;Mor (type 1);1;8.2;8.7;Podzol;7136732.369;734733.644
+Mesic;2;Mor (type 1);1;4.2;3.8;Podzol;7137082.223;734378.245
+Mesic;2;Mor (type 1);1;3.6;4.2;Podzol;7136733.117;734380.683
+Mesic-moist;3;Peaty Mor;6;29.5;22;Regosol;7133932.606;731936.463
+Mesic;2;Mor (type 1);1;6.9;8.7;Podzol;7133929.849;731582.081
+Mesic-moist;3;Peat;7;99;99;Histosol;7134283.484;731582.165
+Dry;1;Mor (type 1);1;1.7;1;Podzol;7130776.267;729831.519
+Moist;4;Peat;7;99;99;Histosol;7129381.709;731230.057
+Mesic;2;Mor (type 1);1;6;8.7;Regosol;7130782.312;733331.039
+Mesic;2;Mor (type 1);1;4.8;3.8;Podzol;7130430.196;732976.239
+Mesic;2;Mor (type 1);1;3.9;8.3;Regosol;7130429.92;733329.944
+Moist;4;Peat;7;57.8;99;Histosol;7136383.094;729829.321
+Moist;4;Peat;7;86.3;99;Histosol;7136033.356;729830.644
+Mesic-moist;3;Peaty Mor;6;19.6;9.7;Regosol;7136034.844;729480.076
+Mesic;2;Mor (type 1);1;9.5;13.7;Podzol;7130069.659;735780.147
+Mesic;2;Mor (type 1);1;4.8;2.9;Regosol;7129728.786;735771.216
+Mesic;2;Mor (type 1);1;18.6;8;Regosol;7129732.793;732280.5
+Mesic;2;Mor (type 1);1;13.9;7.3;Regosol;7130076.933;732277.493
+Mesic;2;Mor (type 1);1;14.1;12;Histosol;7130075.123;732627.086
+Mesic;2;Mor (type 1);1;6.1;8.3;Regosol;7129733.321;732628.713
+Moist;4;Peat;7;99;99;Histosol;7137080.032;732630.807
+Mesic;2;Mor (type 1);1;3.9;5.2;Regosol;7128682.011;735789.567
+Mesic;2;Mor (type 1);1;6.8;10;Regosol;7128333.12;735781.338
+Mesic;2;Mor (type 1);1;7.2;7;Regosol;7136377.567;729479.418
+Mesic;2;Mor (type 2);2;10.8;8.3;Podzol;7136730.445;732630.881
+Mesic;2;Mor (type 2);2;10.8;10.7;Podzol;7136738.105;732276.898
+Mesic;2;Mor (type 1);1;8.5;10.7;Podzol;7137081.485;732280.286
+Mesic;2;Mor (type 1);1;6;14.3;Podzol;7129383.515;730529.537
+Mesic;2;Mor (type 1);1;8.2;8;Podzol;7130081.14;736136.945
+Mesic;2;Mor (type 1);1;9.1;10.7;Regosol;7128685.594;736131.768
+Moist;4;Peat;7;19.1;31;Regosol;7128335.35;736131.359
+Mesic;2;Mor (type 1);1;6.2;7.3;Regosol;7132180.57;735781.509
+Mesic;2;Mor (type 1);1;14.9;24;Podzol;7133931.387;736485.276
+Mesic;2;Mor (type 1);1;9.8;10.3;Podzol;7133233.649;731232.186
+Mesic;2;Mor (type 1);1;35.7;31;Gleysol;7133227.538;730882.06
+Mesic;2;Mor (type 1);1;8;10;Podzol;7133204.258;731611.094
+Mesic-moist;3;Peat;7;32.1;32.7;Regosol;7133233.652;731928.777
+Mesic;2;Mor (type 1);1;5.4;4.5;Regosol;7134281.092;730882.544
+Mesic;2;Mor (type 1);1;6;8;Cambrisol;7132877.314;732632.972
+Mesic;2;Mor (type 1);1;8.9;8.3;Regosol;7133931.24;729830.999
+Mesic-moist;3;Mor (type 1);1;9.6;6.7;Podzol;7132880.565;731935.495
+Mesic;2;Mor (type 1);1;11.1;15;Regosol;7132535.864;731928.16
+Mesic-moist;3;Peat;7;23;34;Gleysol;7133583.53;730879.925
+Mesic;2;Mor (type 1);1;7.2;4.2;Podzol;7133586.555;731226.988
+Mesic;2;Mor (type 1);1;6.8;8.3;Podzol;7134280.982;727730.294
+Mesic-moist;3;Peaty Mor;6;13.2;14;Regosol;7132529.63;731581.177
+Mesic;2;Mor (type 1);1;5.7;6.7;Podzol;7132883.287;731578.159
+Mesic;2;Mor (type 1);1;4;2.8;Podzol;7129032.972;730878.313
+Mesic;2;Mor (type 1);1;17.2;10.7;Gleysol;7133232.641;733680.573
+Mesic;2;Mor (type 1);1;8.3;5.8;Podzol;7133225.33;734040.027
+Mesic;2;Mor (type 1);1;3.1;2.1;Podzol;7129381.574;730876.914
+Mesic;2;Mor (type 1);1;5.2;2.4;Podzol;7133581.407;734031.549
+Mesic;2;Mor (type 1);1;5.5;3.5;Podzol;7133581.272;733677.059
+Mesic;2;Mor (type 1);1;5.2;6.3;Arenosol;7131834.472;730871.567
+Mesic;2;Mor (type 1);1;6.2;8.7;Arenosol;7131831.51;731228.335
+Mesic;2;Mor (type 1);1;2.8;5;Podzol;7137432.458;735081.485
+Mesic;2;Mor (type 1);1;4.3;5.2;Podzol;7129731.424;730531.668
+Mesic;2;Mor (type 1);1;4;4.3;Regosol;7129730.865;730177.102
+Mesic;2;Mor (type 1);1;4.4;3.8;Podzol;7130082.7;730176.519
+Mesic;2;Mor (type 1);1;6.1;6;Podzol;7130079.839;730528.453
+Dry;1;Mor (type 1);1;2.9;1.8;Arenosol;7131478.449;730527.381
+Mesic;2;Mor (type 1);1;5.8;9;Regosol;7136377.364;734028.728
+Mesic;2;Mor (type 1);1;4.6;9.3;Podzol;7136029.457;734032.198
+Wet;5;Peaty Mor;6;20.5;25;Gleysol;7136039.815;733667.87
+Mesic;2;Mor (type 1);1;7.6;5.7;Arenosol;7131132.309;730177.252
+Mesic;2;Mor (type 1);1;5.9;5.3;Regosol;7137077.845;729133.044
+Mesic;2;Mor (type 1);1;5.5;7.7;Podzol;7136729.575;729131.774
+Mesic;2;Mor (type 1);1;4.5;3.7;Podzol;7133230.338;736482.569
+Mesic;2;Mor (type 2);2;8.4;6.7;Podzol;7133583.721;736483.503
+Moist;4;Peat;7;42;43;Histosol;7134280.582;730530.428
+Mesic;2;Mor (type 1);1;6.8;9;Podzol;7133931.857;730176.628
+Mesic-moist;3;Peaty Mor;6;22.7;24;Regosol;7133936.654;730530.531
+Mesic;2;Mor (type 1);1;7.6;5.5;Arenosol;7131486.775;731578.015
+Mesic;2;Mor (type 1);1;5.2;7;Arenosol;7131482.309;731930.188
+Mesic;2;Mor (type 1);1;6.2;6;Arenosol;7131128.669;731584.864
+Mesic;2;Mor (type 1);1;6.8;7.7;Arenosol;7131132.483;731931.373
+Mesic;2;Mor (type 1);1;5.2;6.7;Podzol;7134288.462;732975.964
+Mesic;2;Mor (type 1);1;4.8;7.5;Podzol;7133933.131;732984.2
+Mesic;2;Mor (type 1);1;7.5;5.3;Podzol;7134283.302;733329.635
+Mesic;2;Mor (type 1);1;10.8;7;Regosol;7133927.866;733329.217
+Mesic;2;Mor (type 1);1;4.9;4.5;Podzol;7134635.787;731226.406
+Mesic;2;Mor (type 1);1;8.1;8.7;Podzol;7134986.681;731229.118
+Mesic;2;Mor (type 1);1;4.2;3.7;Podzol;7134983.58;730882.686
+Mesic;2;Mor (type 1);1;5.5;5;Podzol;7134632.302;730885.808
+Dry;1;Mor (type 1);1;4.4;10;Podzol;7136387.285;730877.076
+Mesic;2;Mor (type 1);1;11.9;3;Podzol;7136035.145;730879.434
+Mesic;2;Mor (type 1);1;6.7;6.7;Podzol;7136027.225;731228.928
+Mesic;2;Mor (type 1);1;5.1;7;Leptosol;7129731.898;733327.195
+Mesic;2;Mor (type 1);1;7.2;7.7;Podzol;7129729.477;732980.373
+Mesic;2;Mor (type 1);1;6.5;7.3;Podzol;7130084.585;732980.328
+Mesic;2;Mor (type 1);1;8.2;4.8;Podzol;7130083.168;733329.549
+Mesic;2;Mor (type 1);1;3.6;5;Podzol;7135332.129;734378.53
+Mesic;2;Mor (type 1);1;6.9;7;Podzol;7135682.362;734378.529
+Mesic;2;Mor (type 1);1;6.6;4.7;Podzol;7135678.624;734732.261
+Mesic;2;Mor (type 1);1;6.5;4.7;Podzol;7135331.168;734730.088
+Mesic;2;Mor (type 1);1;6;7;Podzol;7134281.646;734729.937
+Mesic-moist;3;Mor (type 2);2;14.3;26;Podzol;7134976.513;732626.1
+Mesic;2;Mor (type 1);1;4.5;4.8;Podzol;7134631.513;732630.067
+Mesic;2;Mor (type 1);1;5.1;9;Podzol;7134987.413;732279.374
+Mesic;2;Peaty Mor;6;14.2;16;Podzol;7134636.669;732279.89
+Mesic;2;Mor (type 1);1;5.5;8;Podzol;7135679.207;730532.711
+Mesic;2;Mor (type 1);1;11.2;9.3;Podzol;7135682.348;730172.836
+Moist;4;Peat;7;99;99;Histosol;7135329.039;730179.024
+Mesic;2;Mor (type 1);1;6.6;5.5;Regosol;7135327.603;732982.049
+Dry;1;Mor (type 1);1;3.7;1.8;Podzol;7135334.281;733330.581
+Wet;5;Peat;7;99;99;Histosol;7135684.825;733328.213
+Mesic-moist;3;Peaty Mor;6;25.8;29;Arenosol;7135682.299;732985.252
+Mesic-moist;3;Peat;7;99;99;Histosol;7138131.973;731579.353
+Moist;4;Peat;7;99;99;Histosol;7138131.956;731934.14
+Moist;4;Peat;7;88.7;72;Histosol;7138494.814;731924.215
+Mesic;2;Mull;5;5.3;10;Regosol;7132885.209;734377.227
+Mesic;2;Mor (type 2);2;6.3;10;Regosol;7132522.897;734385.255
+Mesic;2;Mor (type 1);1;7.7;20;Podzol;7134280.652;735778.924
+Mesic;2;Mor (type 1);1;5.9;4.3;Podzol;7133933.798;735780.128
+Mesic;2;Mor (type 1);1;9.5;9;Podzol;7130778.194;735431.235
+Mesic;2;Mor (type 2);2;5.3;6.7;Regosol;7130433.72;735428.337
+Mesic;2;Mor (type 1);1;3.2;3.5;Regosol;7130431.052;735079.63
+Mesic;2;Mor (type 1);1;2.9;4.5;Podzol;7136036.337;732633.192
+Mesic;2;Mor (type 1);1;5.6;4.5;Podzol;7136382.601;732625.902
+Mesic;2;Mor (type 1);1;6.7;5.2;Podzol;7136028.994;732273.975
+Mesic;2;Mor (type 1);1;8.3;7.3;Regosol;7130431.181;731229.983
+Mesic;2;Mor (type 1);1;6.5;5;Regosol;7130429.85;730879.456
+Mesic;2;Mor (type 1);1;6;11.7;Regosol;7130782.147;730878.533
+Mesic;2;Mor (type 1);1;5.8;9.3;Regosol;7137782.164;730880.205
+Mesic-moist;3;Peat;7;61.7;99;Histosol;7137434.768;730883.393
+Mesic;2;Mor (type 1);1;6.2;3.8;Podzol;7137437.938;729829.171
+Dry;1;Mor (type 1);1;5.5;7;Podzol;7134987.059;734029.407
+Dry;1;Mor (type 1);1;5.2;5.5;Podzol;7134643.946;734041.543
+Mesic;2;Mor (type 1);1;4.7;4.7;Podzol;7134633.167;733677.66
+Mesic;2;Mor (type 1);1;6.7;8.7;Podzol;7134964.781;733681.325
+Mesic;2;Mor (type 1);1;3.8;5;Regosol;7130779.768;733680.768
+Dry;1;Mor (type 1);1;4;1.6;Regosol;7130430.452;733681.564
+Mesic;2;Mor (type 1);1;6.2;8.7;Regosol;7130082.637;734380.942
+Mesic;2;Mor (type 1);1;5.8;3.3;Regosol;7130079.688;734728.667
+Mesic;2;Mor (type 1);1;3.5;8.3;Podzol;7129381.348;733683.208
+Mesic;2;Mor (type 1);1;7.8;8.7;Podzol;7129031.449;734029.522
+Mesic;2;Mor (type 1);1;7.2;6.7;Podzol;7129028.4;733681.35
+Mesic;2;Mor (type 1);1;6.7;5.5;Podzol;7128680.029;734376.634
+Dry;1;Mor (type 2);2;3.8;10;Podzol;7129729.396;734729.393
+Mesic;2;Mor (type 1);1;8.7;6.5;Podzol;7128329.887;734717.649
+Dry;1;Mor (type 1);1;4.9;3.5;Regosol;7131127.927;733328.184
+Mesic;2;Mor (type 1);1;4.8;7.7;Arenosol;7131130.472;732982.991
+Dry;1;Mor (type 1);1;3.6;2.8;Arenosol;7131831.488;729827.603
+Mesic;2;Mor (type 1);1;4.7;6.5;Arenosol;7132182.118;729481.945
+Mesic;2;Mor (type 1);1;5.9;7.7;Regosol;7131479.313;733330.582
+Mesic;2;Mor (type 1);1;6.8;6.7;Podzol;7134982.07;735420.05
+Mesic;2;Mor (type 1);1;5.1;8.2;Podzol;7134626.796;735433.169
+Mesic;2;Mor (type 1);1;9.1;12.7;Regosol;7132531.276;730180.416
+Mesic-moist;3;Mor (type 2);2;14.1;27;Regosol;7132886.845;730183.833
+Mesic;2;Mor (type 1);1;10.2;11.7;Podzol;7132877.386;730525.835
+Mesic;2;Mor (type 1);1;5.1;6.7;Regosol;7134983.541;735086.565
+Mesic;2;Mor (type 1);1;6.8;7;Regosol;7134626.668;735083.106
+Mesic;2;Mor (type 1);1;9;7;Podzol;7133580.27;728079.307
+Mesic;2;Mor (type 1);1;4.2;6.7;Podzol;7133577.408;728431.301
+Mesic;2;Mor (type 2);2;12.8;14.7;Gleysol;7133234.071;728432.386
+Mesic;2;Mor (type 1);1;3.8;4.8;Podzol;7133930.646;728783.227
+Dry;1;Mor (type 1);1;4.8;5.2;Podzol;7134279.832;729131.21
+Mesic;2;Mor (type 1);1;7.1;9.3;Podzol;7134272.809;728779.12
+Mesic;2;Mor (type 1);1;6.2;5;Podzol;7134630.07;729477.999
+Mesic;2;Mor (type 1);1;6.3;7.3;Regosol;7134627.205;728076.956
+Mesic;2;Mor (type 1);1;7.4;8.7;Podzol;7134633.8;728432.239
+Mesic;2;Mor (type 1);1;6.2;5;Podzol;7135689.856;729123.4
+Mesic;2;Mor (type 1);1;6.8;4;Podzol;7135325.87;729133.54
+Mesic;2;Mor (type 1);1;9.2;12.7;Podzol;7134981.878;728081.832
+Mesic;2;Mor (type 1);1;5.8;7.3;Podzol;7134981.553;728430.897
+Mesic;2;Mor (type 1);1;5.3;4.3;Regosol;7132886.77;733334.965
+Moist;4;Peat;7;99;99;Histosol;7132534.306;732979.223
+Mesic;2;Mor (type 1);1;5.2;7;Regosol;7132882.195;732979.121
+Mesic;2;Mor (type 1);1;6;7;Podzol;7129729.836;731577.961
+Mesic;2;Mor (type 1);1;5.6;6.3;Podzol;7129729.804;731931.474
+Mesic;2;Mor (type 1);1;7.1;8;Regosol;7130080.332;731926.787
+Mesic;2;Mor (type 1);1;5.2;6.7;Podzol;7130082.508;731576.77
+Mesic;2;Mor (type 1);1;5.6;9;Regosol;7132187.065;732286.043
+Mesic-moist;3;Peat;7;99;99;Histosol;7132180.997;732624.295
+Mesic;2;Mor (type 1);1;5.9;7.7;Regosol;7132183.145;733679.468
+Mesic;2;Mor (type 1);1;8.6;12.3;Regosol;7131829.063;733679.672
+Mesic;2;Mor (type 1);1;7.5;7.3;Podzol;7131831.816;734030.064
+Mesic;2;Mor (type 1);1;3.9;4.8;Podzol;7138137.463;733332.384
+Mesic;2;Mor (type 1);1;4.1;3.8;Podzol;7138134.876;732982.077
+Mesic;2;Mor (type 1);1;8.1;5.3;Regosol;7131132.366;734737.198
+Mesic;2;Mor (type 1);1;6.6;7.3;Regosol;7131138.107;734364.881
+Mesic;2;Mor (type 1);1;6.2;3.3;Regosol;7131477.171;734379.544
+Mesic;2;Mor (type 1);1;7.7;6.7;Regosol;7130431.944;732283.39
+Dry;1;Mor (type 1);1;7.2;8.3;Regosol;7130430.83;732633.766
+Mesic;2;No humus layer;0;2;0;Podzol;7135679.798;727380.354
+Moist;4;Peat;7;99;99;Histosol;7135680.432;727728.89
+Wet;5;Peat;7;99;99;Histosol;7135327.572;727379.488
+Wet;5;Peat;7;99;99;Histosol;7135328.683;727727.143
+Moist;4;Peaty Mor;6;20.8;20;Gleysol;7134631.245;729834.803
+Mesic-moist;3;Peat;7;88.2;30;Histosol;7134981.289;729479.615
+Mesic-moist;3;Peat;7;90.4;99;Histosol;7137432.422;734022.913
+Mesic;2;Mor (type 1);1;17.3;4.8;Podzol;7137786.142;733676.274
+Mesic;2;Mor (type 1);1;11.5;14;Podzol;7137432.301;733678.655
+Mesic-moist;3;Mor (type 2);2;7.6;9.3;Regosol;7129384.303;735432.324
+Dry;1;Mor (type 1);1;3.3;5.3;Podzol;7129382.184;735081.428
+Mesic;2;Mor (type 1);1;4.9;3.4;Regosol;7129032.622;735083.226
+Mesic;2;Mor (type 2);2;8.5;9.3;Podzol;7127982.483;734033.41
+Dry;1;Mor (type 1);1;4.7;6.7;Podzol;7127984.549;735080.133
+Moist;4;Peat;7;99;99;Histosol;7136723.216;730531.861
+Moist;4;Peat;7;99;99;Histosol;7137088.311;730529.815
+Mesic;2;Mor (type 1);1;3.6;7;Podzol;7136731.25;733329.144
+Mesic-moist;3;Peat;7;99;99;Histosol;7136732.417;732967.088
+Mesic;2;Mor (type 1);1;5;7;Podzol;7137087.53;732978.842
+Mesic;2;Mor (type 1);1;3.8;8.7;Regosol;7137083.991;733337.561
+Mesic;2;Mor (type 1);1;9.8;8;Podzol;7137779.743;732630.094
+Mesic;2;Mor (type 1);1;4.7;5.2;Podzol;7137784.892;732283.786
+Mesic-moist;3;Peaty Mor;6;13.3;11.3;Gleysol;7137411.928;732270.212
+Mesic;2;Mor (type 1);1;12.3;8.7;Podzol;7137434.453;732630.518
+Moist;4;Peat;7;54;99;Histosol;7136731.37;730179.998
+Mesic;2;Mor (type 1);1;7.6;6.7;Podzol;7137085.699;730175.561
+Mesic;2;Mor (type 1);1;10.8;6.7;Gleysol;7132177.652;735080.94
+Mesic;2;Mor (type 1);1;10.4;12.7;Podzol;7132179.211;735454.614
+Mesic;2;Mor (type 1);1;10.8;6.7;Regosol;7131836.105;735424.707
+Mesic;2;Mor (type 1);1;7.7;4.7;Regosol;7131485.971;735779.221
+Mesic;2;Mor (type 1);1;9.5;5.3;Podzol;7131130.178;736130.255
+Dry;1;Mor (type 1);1;10.3;7;Histosol;7132529.148;736122.245
+Mesic;2;Mor (type 1);1;6.2;5;Podzol;7132536.328;735779.722
+Mesic;2;Mor (type 1);1;5;6.7;Podzol;7132886.207;736127.745
+Mesic;2;Mor (type 1);1;7.1;3.7;Podzol;7133230.314;735431.616
+Moist;4;Mor (type 1);1;32.8;22;Regosol;7133233.194;735083.716
+Mesic;2;Mor (type 1);1;6.3;7.7;Podzol;7133577.628;735431.417
+Moist;4;Peaty Mor;6;28.8;29;Podzol;7133581.587;735079.572
