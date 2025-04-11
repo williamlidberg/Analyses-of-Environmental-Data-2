@@ -31,8 +31,7 @@ M9: Deep learning
    1. [Jupyter notebooks](##Jupyter-notebooks) 
          1. [With google colab](###with-google-colab) 
          2. [With your own hardware](###with-your-own-hardware)
-   2. 
-   3. [Qgis](##Qgis)
+
 2. [Introduction to Python](#Introduction-to-Python)
    1. [Vector data](##Vector-data)
 
@@ -57,17 +56,12 @@ This course will only focus on free and open source tools which will always be a
 ## Jupyter notebooks
  Instead of Rstudio we will use Jupyter notebooks to analyze and interract with the data. The Jupyter Notebook is a web application for creating and sharing computational documents. It offers a simple, streamlined, document-centric experience. It supports over 40 programming languages, including Python, R, Julia, and Scala. In this crouse we will demonstrate two ways to set up notebooks. The easy way using google colab, and the fun way using your own computer.
 
-The assignment for this module is to set up your analytical environment and install the following python packages:
-* [Whitebox](https://pypi.org/project/whitebox/)
-*
 
-
-Once set up you need to run this code and report the 
 
 ### With google colab
 Colab is a hosted Jupyter Notebook service that requires no setup to use and provides free access to computing resources, including GPUs and TPUs. All exercises in this course can be completed using google colab. However, colab is also quite slow due to limited hardware resources with about two processing cores and 12 GB of RAM. In order to get started with google colab you will need a google account and set up google drive for permanent storage. 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/Geopandas.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/modules/module_1/Assignment_1.ipynb)
 
 
 ### With your own hardware
@@ -92,27 +86,35 @@ import multiprocessing\
 cores = multiprocessing.cpu_count()\
 cores
 
-If the number of cores is less than four you should use google colab. You should also look for a new computer.  
-# Processing of spatial data with open source software
-## Vector data
-### Geopandas
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/Geopandas.ipynb)
-### Rasterio
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/Geopandas.ipynb)
-### Xarray
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/Geopandas.ipynb)
+If the number of cores is less than four you should use google colab. You should also look for a new computer. 
+# Introduction to python
+## Basic commands
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/modules/module_2/Assignment_2.ipynb)
+
+## Data wrangling
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/modules/module_3/Assignment_3.ipynb)
+
+# Geospatial processing
 ## Raster data
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/modules/module_4/Assignment_4.ipynb)
 
-## Satellite data
-### Geemap
- [Google earth Engine (GEE)](https://earthengine.google.com/) has become very popular in the geospatial community and it has empowered numerous environmental applications at local, regional, and global scales. [Geeemap](https://geemap.org/) is built upon ipyleaflet and ipywidgets, and enables users to analyze and visualize Earth Engine datasets interactively within a Jupyter-based environment.
+## Sattelite data
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/modules/module_5/Assignment_5.ipynb)
+## Vector data
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/modules/module_6/Assignment_6.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/Geopandas.ipynb)
-# Topographical modeling
-## Whittebox Tools
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/Geopandas.ipynb)
-# Machine learning with spatial data
-## Random Forest
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/Geopandas.ipynb)
+
+# Machine learning on geospatial data
+## Machine learning on vector data
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/modules/module_7/Assignment_7.ipynb)
+
+## Machine learning on raster data
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/modules/module_8/Assignment_8.ipynb)
+
 ## Deep learning
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/Geopandas.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/modules/module_9/Assignment_9.ipynb)
+
+# Web mapping
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/modules/module_10/Assignment_10.ipynb)
+
+
