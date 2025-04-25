@@ -133,9 +133,13 @@ https://github.com/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/mod
 # ⚙️ Machine learning on geospatial data
 Apply machine learning techniques to spatial datasets for classification, regression, and prediction.
 ## Machine learning on vector data
-Use traditional machine learning models like Random Forest and SVM to classify vector-based ecological data.
+This assignment builds on the last assignment and will introduce you to how geopandas and vector data can be combined with machine learning to build predictive models. 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/modules/module_7/Assignment_7.ipynb)
+
+https://github.com/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/modules/module_7/Assignment_7_machine_learning_on_vector_data.ipynbLinks to an external site.
+
+ 
+Run the code in the cells and complete the tasks. Then download the notebook and submitt it to canvas named Yourname_assignment1.ipynbLinks to an external site.. In the file
 
 ## Machine learning on raster data
 This module is all about machine learning on raster data. You will learn to apply a random forest model on raster data to map soil moisture and C/N ratios. You will also learn to include additional topographical variables to the model.
