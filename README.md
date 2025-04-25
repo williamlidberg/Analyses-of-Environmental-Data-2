@@ -38,7 +38,8 @@ After completing the course, the student should be able to:
 
 
 
-# Setting up your environment
+# 💻 Setting up your environment
+
 This course will only focus on free and open source tools which will always be accecible to you so you don't have to fight with the IT-department of your future employer. You will not need to pay for, or manage, expensive licens fees. In the first half of this course you used Rstudio to run R scripts but in order to work with Python scripts you need a Python envrinoment. 
 ## Jupyter notebooks
  Instead of Rstudio we will use Jupyter notebooks to analyze and interract with the data. The Jupyter Notebook is a web application for creating and sharing computational documents. It offers a simple, streamlined, document-centric experience. It supports over 40 programming languages, including Python, R, Julia, and Scala. In this crouse we will demonstrate two ways to set up notebooks. The easy way using google colab, and the fun way using your own computer.
@@ -74,7 +75,7 @@ cores = multiprocessing.cpu_count()\
 cores
 
 If the number of cores is less than four you should use google colab. You should also look for a new computer. 
-# Introduction to python
+# 🐍 Introduction to python
 Learn the foundational syntax and structures of Python programming, tailored for geospatial analysis.
 ## Basic commands
 This module introduces Python basics such as variables, loops, conditionals, and functions—skills essential for scripting and automation.
@@ -86,7 +87,7 @@ Explore how to clean, transform, and manipulate real-world data using libraries 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/modules/module_3/Assignment_3.ipynb)
 
-# Geospatial processing
+# 🌍 Geospatial processing
 Work with geospatial data formats and understand how to extract insights from raster and vector data.
 ## Raster data
 Learn to handle raster datasets (such as elevation models and satellite imagery) using rasterio and numpy.
@@ -103,7 +104,7 @@ Manipulate shapefiles and other vector formats using geopandas, and perform spat
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/modules/module_6/Assignment_6.ipynb)
 
 
-# Machine learning on geospatial data
+# ⚙️ Machine learning on geospatial data
 Apply machine learning techniques to spatial datasets for classification, regression, and prediction.
 ## Machine learning on vector data
 Use traditional machine learning models like Random Forest and SVM to classify vector-based ecological data.
@@ -120,7 +121,7 @@ Introduce deep learning for geospatial analysis using CNNs, with examples using 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/modules/module_9/Assignment_9.ipynb)
 
-# Web mapping
+# 🗺️ Web mapping
 Learn to publish interactive maps using Python libraries like folium and geemap, and share results online.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/modules/module_10/Assignment_10.ipynb)
