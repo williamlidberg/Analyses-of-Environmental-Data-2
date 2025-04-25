@@ -1,5 +1,6 @@
+[![docs](https://img.shields.io/badge/whitebox-docs-brightgreen.svg)](https://www.whiteboxgeo.com/manual/wbt_book/preface.html)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Twitter Follow](https://img.shields.io/twitter/follow/William_Lidberg?style=social)](https://twitter.com/william_lidberg)
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/william-lidberg-9a4842164/)
 
 # Analyses-of-Environmental-Data-2
 Welcome to the second edition of Analysis of Environmental Data 2! Analysis of Environmental Data 1 used R for data analysis but this course will use Python and Jupyter Notebooks instead. This course will also take it a step further and dive into the world of spatial data and machine learning.
