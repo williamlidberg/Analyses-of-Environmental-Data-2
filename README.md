@@ -2,6 +2,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/William_Lidberg?style=social)](https://twitter.com/william_lidberg)
 
 # Analyses-of-Environmental-Data-2
+Welcome to the second edition of Analysis of Environmental Data 2! Analysis of Environmental Data 1 used R for data analysis but this course will use Python and Jupyter Notebooks instead. This course will also take it a step further and dive into the world of spatial data and machine learning.
 
 The course focuses on applying statistical models and machine learning methods to spatial data. The course will cover four topics:\
 **1 Setting up your analytical envrionment** \
@@ -40,7 +41,14 @@ After completing the course, the student should be able to:
 
 # 💻 Setting up your environment
 
-This course will only focus on free and open source tools which will always be accecible to you so you don't have to fight with the IT-department of your future employer. You will not need to pay for, or manage, expensive licens fees. In the first half of this course you used Rstudio to run R scripts but in order to work with Python scripts you need a Python envrinoment. 
+This course will only focus on free and open source tools which will always be accecible to you so you don't have to fight with the IT-department of your future employer. You will not need to pay for, or manage, expensive licens fees. You might have used Rstudio to run R scripts before but in order to work with Python scripts you need a Python envrinoment. 
+
+The first assignment is to set up your python environment that you will use for this course. You have two options. The first option is to use google colab. This is free but requires a google account. The second option is to use your own computer. This is optional but I do recommend that you at least try it. It will give you valuable knowledge on how to set up your own workstation in the future.
+
+Open this notebook using google colab or anaconda: https://github.com/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/modules/module_1/Assignment_1.ipynb to an external site.
+
+Run the code in the cells and awnser the question in the bottom. Then download the notebook and submitt it to canvas named Yourname_assignment1.ipynbLinks to an external site.. In the file, include both the codes and the outcomes. Answer questions in short text.
+
 ## Jupyter notebooks
  Instead of Rstudio we will use Jupyter notebooks to analyze and interract with the data. The Jupyter Notebook is a web application for creating and sharing computational documents. It offers a simple, streamlined, document-centric experience. It supports over 40 programming languages, including Python, R, Julia, and Scala. In this crouse we will demonstrate two ways to set up notebooks. The easy way using google colab, and the fun way using your own computer.
 
@@ -76,21 +84,37 @@ cores
 
 If the number of cores is less than four you should use google colab. You should also look for a new computer. 
 # 🐍 Introduction to python
-Learn the foundational syntax and structures of Python programming, tailored for geospatial analysis.
+The second assignment is a introduction to Python. Python is a general-purpose programing language with multiple applications. You will not be able to learn it all so this is just a short introduction to the basics. Keep in mind that you will keep learning it during this course. Assignment 1 and 2 are meant to prepare you for the rest of the course and get you starting with working with Python: Here is a short introduction to Python that you can watch before you get started: [Python in 100 seconds](https://www.youtube.com/watch?v=x7X9w_GIm1s&pp=ygUPZmlyZXNoaXAgcHl0aG9u).
+
+
+
+ 
+
 ## Basic commands
 This module introduces Python basics such as variables, loops, conditionals, and functions—skills essential for scripting and automation.
+Open this notebook using google colab or anaconda: https://github.com/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/modules/module_2/Assignment_2.ipynb
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/modules/module_2/Assignment_2.ipynb)
 
 ## Data wrangling
-Explore how to clean, transform, and manipulate real-world data using libraries like pandas to prepare datasets for analysis.
+Data is generated from multiple parts of society, but no one agrees on how to properly store data. It is often messy and semi-structured, and for any more extensive projects, you will spend most of the time acquiring, preparing and cleaning the data. Therefore the aim of this module is to introduce you to some tools and methods to handle datasets of different types, you will work on both tabular data, vector data and image data.
+
+Some of the tools in this module require Linux commands. These are available in google colab, but if you are using anaconda on windows, you can install some basic Linux commands with conda install m2-base
+
+When it comes to geospatial data, I do recommend that you install Qgis to interact and inspect the data more easily
+
+
+Here is the notebook for module 3. Complete the tasks in the notebook and submitt it on canvas https://github.com/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/modules/module_3/Assignment_3.ipynb
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/modules/module_3/Assignment_3.ipynb)
 
 # 🌍 Geospatial processing
 Work with geospatial data formats and understand how to extract insights from raster and vector data.
 ## Raster data
-Learn to handle raster datasets (such as elevation models and satellite imagery) using rasterio and numpy.
+Multiple countries have national programs with airborne laser scanning which provides high resolution elevation data. This data is a goldmine for topographical modeling and this module will give you an introduction into one of the most powerful tools to handle topographical data using Python.
+
+
+Here is the notebook for module 4. Complete the tasks in the notebook and submitt it on canvas https://github.com/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/modules/module_4/Assignment_4_topographical_modeling.ipynb
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/modules/module_4/Assignment_4.ipynb)
 
@@ -99,7 +123,9 @@ Process and visualize satellite imagery, and explore spectral bands to analyze l
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/modules/module_5/Assignment_5.ipynb)
 ## Vector data
-Manipulate shapefiles and other vector formats using geopandas, and perform spatial joins and filtering.
+This module will be all about vector data. Vector data are points, lines and polygons commonly stored in shapefiles. This module will demonstrate how to handle this type of data in Python using pandas. We will also work with data aggregation in preparation for module 7, machine learning on vector data. Complete the tasks in this notebook and upload it to Canvas with your name on it. 
+
+https://github.com/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/modules/module_6/Assignment_6_geopandas.ipynb
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/modules/module_6/Assignment_6.ipynb)
 
@@ -112,17 +138,32 @@ Use traditional machine learning models like Random Forest and SVM to classify v
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/modules/module_7/Assignment_7.ipynb)
 
 ## Machine learning on raster data
-Train models on raster datasets to produce spatial predictions and thematic maps.
+This module is all about machine learning on raster data. You will learn to apply a random forest model on raster data to map soil moisture and C/N ratios. You will also learn to include additional topographical variables to the model.
+
+Complete the tasks in this notebook and upload it to canvas.
+
+https://github.com/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/modules/module_8/Assignment_8_machine_learning__on_raster_data.ipynb
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/modules/module_8/Assignment_8.ipynb)
 
 ## Deep learning
-Introduce deep learning for geospatial analysis using CNNs, with examples using image data and spatial grids.
+This module introduces semantic image segmentation using deep learning. It requires a GPU, so I recommend using Google Colab for this assignment. While it is possible on a CPU, it would take days to complete due to the massive amount of data processing involved. 
+
+Complete the tasks and upload the notebook to Canvas.
+
+https://github.com/williamlidberg/Analyses-of-Environmental-Data-2/tree/main/modules/module_9
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/modules/module_9/Assignment_9.ipynb)
 
 # 🗺️ Web mapping
-Learn to publish interactive maps using Python libraries like folium and geemap, and share results online.
+The final assignment will demonsrtrate how to make a basic webmap. Webmaps can be used to show non-technical people your work in a more fun and inerractive way. This module will not go into webdevelopment with connected databases but it will give you some tools to show off your work online. This is an example of what you will learn: https://williamlidberg.github.io/
+
+I noticed that the notebook dont seem to render in GitHub so you might have to download it and then uppload it to drive and open it in google colab.
+
+https://github.com/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/modules/module_10/Assignment_10_webmapping.ipynbLinks to an external site.
+
+ 
+Complete the tasks and uppload the final notebook to canvas.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/modules/module_10/Assignment_10.ipynb)
 
