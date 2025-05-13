@@ -158,7 +158,7 @@ Complete the tasks and upload the notebook to Canvas.
 
 https://github.com/williamlidberg/Analyses-of-Environmental-Data-2/tree/main/modules/module_9
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/modules/module_9/Assignment_9.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/modules/module_9/Deep_Learning_intro_9.ipynb)
 
 # 🗺️ Web mapping
 The final assignment will demonsrtrate how to make a basic webmap. Webmaps can be used to show non-technical people your work in a more fun and inerractive way. This module will not go into webdevelopment with connected databases but it will give you some tools to show off your work online. This is an example of what you will learn: https://williamlidberg.github.io/
