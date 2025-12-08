@@ -149,7 +149,7 @@ Complete the tasks in this notebook and upload it to canvas.
 
 https://github.com/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/modules/module_8/Assignment_8_machine_learning__on_raster_data.ipynb
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/modules/module_8/Assignment_8.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/modules/module_8/Assignment_8.ipynb](https://github.com/williamlidberg/Analyses-of-Environmental-Data-2/blob/main/modules/module_8/Assignment_8_2025.ipynb))
 
 ## Deep learning
 This module introduces semantic image segmentation using deep learning. It requires a GPU, so I recommend using Google Colab for this assignment. While it is possible on a CPU, it would take days to complete due to the massive amount of data processing involved. 
